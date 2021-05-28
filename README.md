@@ -4,5 +4,12 @@ This repository contains the code for Automatic captioning of images using NLP. 
 
 Dataset: https://www.kaggle.com/shweta2407/flickr8k-imageswithcaptions
 
-Model:
+## Model:
+
 <img src='model.png'>
+
+## Result:
+
+<img src=' result.png'>
+
+<p align=center>Made with :heart: by Bhuvan Aggarwal</p>
