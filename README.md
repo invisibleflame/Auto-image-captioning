@@ -10,6 +10,6 @@ Dataset: https://www.kaggle.com/shweta2407/flickr8k-imageswithcaptions
 
 ## Result:
 
-<img src=' result.PNG'>
+<img src='result.PNG'>
 
 <p align=center>Made with :heart: by Bhuvan Aggarwal</p>
