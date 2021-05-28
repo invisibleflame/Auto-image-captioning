@@ -4,6 +4,11 @@ This repository contains the code for Automatic captioning of images using NLP. 
 
 Dataset: https://www.kaggle.com/shweta2407/flickr8k-imageswithcaptions
 
+Scope of improvement:
+
+- Using Attention module in language model
+- Using Bidirectional LSTM
+
 ## Model:
 
 <img src='model.png'>
